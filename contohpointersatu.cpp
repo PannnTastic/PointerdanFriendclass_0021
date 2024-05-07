@@ -19,10 +19,10 @@ int main (){
     mhs.shownim();
 
     mahasiswa *pmhs = &mhs;
-    pmhs->nim;
+    pmhs->nim = 3;
     pmhs->shownim();
     return 0;
-    
+
 
 
 }
