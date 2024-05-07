@@ -10,3 +10,6 @@ class mahasiswa
     }
 };
 
+int main (){
+    mahasiswa mhs{1};
+}
